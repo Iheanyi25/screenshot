@@ -1,0 +1,292 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+.container {
+	width: 1350px;
+}
+header {
+	height: 45px;
+	background-color:#0099CC;
+}
+.head-main {
+	float: left;
+	width: 1060px;
+	margin-left: 50px; 
+}
+.oneblue {
+	background-color: #00B2EE;
+}
+.twoblue {
+	background-color: #33A1C9;
+}
+.onegreen {
+	background-color:#5abd5a;
+}
+.twogreen {
+	background-color: #1c941c;
+}
+.oneyellow {
+	background-color: #e69a0e;
+}
+.twoyellow {
+	background-color: #FF6600;
+}
+.onered {
+	background-color: #de4444;
+}
+.twored {
+	background-color: #bb3939;
+}
+.visit {
+	background-color:#0099CC;
+}
+.admin {
+	font-size: 22px;
+	font-weight: bolder;
+}
+.bwhite {
+	background-color: white;
+}
+.img {
+	height: 25px;
+	width: 25px;
+	border-radius: 10px;
+}
+.mike {
+	color: blue;
+}
+.format {
+	height: 15px;
+	width: 15px;
+	font-size: 12px;
+	border-radius: 10px;
+	color: white;
+}
+.green {
+	background-color: green;
+}
+.yellow {
+	background-color: yellow;
+}
+.red {
+	background-color: red;
+}
+.blue {
+	background-color: blue;
+}
+.white-font {
+	color: white;
+}
+.body {
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+.above {
+	background-color: #232b2b;
+}
+.left-nigga {
+	width: 15%;
+	height: 750px;
+	background-color: #232b2b;
+	vertical-align: top;
+	overflow: auto;
+	display: grid;
+	grid-template-rows: 14% 86%;
+}
+
+.img-text{
+	height: auto;
+	width: 95%;
+	display: grid;
+	grid-template-columns: 6% 94%;
+	grid-gap: 20px;
+	margin: auto;
+	margin-top: 10px;
+	background-color: #232b2b;
+}
+.dashyy {
+	background-color: #3b444b;
+}
+.blacker {
+	background-color:#0e1111;
+}
+.texty {
+	color:#414a4c;
+}
+.textyy {
+	color:#C0C0C0;
+}
+input {
+	background:#3b444b;
+    border: 0;
+    min-width: 175px;
+    height: 30px;
+    color: white;
+    padding-left: 10px;
+    margin-left: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.lists {
+	display: grid;
+	grid-template-rows: 5%;
+	height: 1000px;
+	margin-top: 5px;
+}
+.move-mailbox {
+	margin-left: 64px;
+}
+.move-calender {
+	margin-left: 75px;
+}
+.move-new {
+	margin-left: 85px;
+}
+.move-four {
+	margin-left: 51px;
+}
+.right-nigga {
+	width: 85%;
+	background-color: #DCDCDC;
+	height: 100%; 
+}
+.dashy {
+	font-size: 23px;
+	font-weight: bolder;
+}
+.more-info {
+	height: 170px;
+	width: 100%;
+	display: grid;
+	grid-template-columns: 23% 23% 23% 23%;
+	grid-gap: 20px;
+	margin: 10px;
+}
+.dash a {
+	color: black;
+}
+.boxes {
+	width: 100%;
+	height: 80%;
+	display: grid;
+	grid-template-rows: 80% 20%;
+}
+.big-letters {
+	font-size: 30px;
+    font-weight: bolder;
+    margin-left: 8px;
+}
+.margin {
+	margin-left: 8px;
+}
+.align-center {
+	padding-left: 90px;
+}
+.content {
+	width: 100%;
+	height:500px;
+	display: grid;
+	grid-template-columns: 60% 35.7%;
+	margin: 10px;
+	grid-gap: 20px;
+}
+.first-column {
+	display: grid;
+	grid-template-rows: 50% 50%;
+	grid-gap: 10px;
+}
+.up-text {
+	height: 25px;
+	width: 100%;
+	display: flex;
+}
+.first-text {
+	width: 92%;
+	border-right: 1px solid #A9A9A9;
+	border-bottom: 0.2px solid #A9A9A9;;
+}
+.second-text {
+	border-top: 2px solid blue;
+	width: 8%;
+}
+.second-text span {
+	padding-left: 10px;
+}
+.sales {
+	float: left;
+	width: 570px;
+}
+.jude{
+	height: 25px;
+	width: 25px;
+	border-radius: 10px;
+	border: 2px solid red;
+}
+.first-chat {
+	height: auto;
+	width: 95%;
+	display: grid;
+	grid-template-columns: 6% 94%;
+	margin: auto;
+	margin-top: 10px;
+}
+.second-chat {
+	min-height: 70px;
+	width: 90%;
+	margin-top: 13px;
+	margin-left: 49px;
+	background-color: #A9A9A9;
+}
+.bold {
+	font-weight: bold;
+}
+.italic {
+	font-style: italic;
+}
+#open {
+	float: right;
+    background: #0073aa;
+    color: white;
+    font-weight: bolder;
+    padding: 5px;
+    border: none;
+}
+.second-column {
+	display: grid;
+	grid-template-rows: 51% 47%;
+	grid-gap: 10px;
+}
+.up2 {
+	display: grid;
+	grid-template-rows: 85% 15%;
+}
+.up2 li a {
+	margin-right: 75px;
+	color: black;
+}
+.down2 {
+	background-color: #37FDFC;
+}
+ul li {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+a {
+	text-decoration: none;
+	margin-right: 10px;
+	margin: 0;
+	padding: 0;
+}
+.dash* {
+	display: inline-block;
+}
+.nonsense {
+	float: left;
+	width: 996px;
+	margin-left: 10px;
+}
